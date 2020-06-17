@@ -17,9 +17,7 @@ const box = document.querySelector('.gallery');
 refs.searchForm.addEventListener('submit', searchCat)
 refs.btnLoad.addEventListener('click', loadMoreImages)
 //1.to do ligthBox
-//2. search hw-8 gallery  
 // refs.searchForm.addEventListener('click', loadBoxLight)
-
 // refs.link.addEventListener('click',loadBoxLight)
 
 // refs.searchForm.addEventListener('submit', _.debounce(searchCat,1000))
